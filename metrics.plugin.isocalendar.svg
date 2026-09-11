@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280">
+  <defs>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 600; fill: #58a6ff; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; fill: #8b949e; }
+      .card { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8px; }
+      .iso-block-top { fill: #238636; }
+      .iso-block-left { fill: #2ea043; }
+      .iso-block-right { fill: #3fb950; }
+    </style>
+  </defs>
+  <rect width="958" height="278" x="1" y="1" class="card" />
+  <g transform="translate(40, 40)">
+    <text x="0" y="0" class="title">📅 Isometric Contribution Calendar</text>
+    <text x="0" y="25" class="desc">Awaiting first workflow run to generate full-year 3D commit metrics...</text>
+  </g>
+  <g transform="translate(480, 150)">
+    <!-- Placeholder isometric cube demonstration -->
+    <g transform="translate(-100, 20)">
+      <polygon points="0,-18 31,0 0,18 -31,0" fill="#238636" opacity="0.85"/>
+      <polygon points="-31,0 0,18 0,54 -31,36" fill="#196127" opacity="0.85"/>
+      <polygon points="0,18 31,0 31,36 0,54" fill="#2ea043" opacity="0.85"/>
+    </g>
+    <g transform="translate(-50, 0)">
+      <polygon points="0,-18 31,0 0,18 -31,0" fill="#2ea043" opacity="0.9"/>
+      <polygon points="-31,0 0,18 0,54 -31,36" fill="#238636" opacity="0.9"/>
+      <polygon points="0,18 31,0 31,36 0,54" fill="#3fb950" opacity="0.9"/>
+    </g>
+    <g transform="translate(0, -20)">
+      <polygon points="0,-18 31,0 0,18 -31,0" fill="#39d353"/>
+      <polygon points="-31,0 0,18 0,54 -31,36" fill="#26a641"/>
+      <polygon points="0,18 31,0 31,36 0,54" fill="#56d364"/>
+    </g>
+    <g transform="translate(50, 0)">
+      <polygon points="0,-18 31,0 0,18 -31,0" fill="#2ea043" opacity="0.9"/>
+      <polygon points="-31,0 0,18 0,54 -31,36" fill="#238636" opacity="0.9"/>
+      <polygon points="0,18 31,0 31,36 0,54" fill="#3fb950" opacity="0.9"/>
+    </g>
+    <g transform="translate(100, 20)">
+      <polygon points="0,-18 31,0 0,18 -31,0" fill="#238636" opacity="0.85"/>
+      <polygon points="-31,0 0,18 0,54 -31,36" fill="#196127" opacity="0.85"/>
+      <polygon points="0,18 31,0 31,36 0,54" fill="#2ea043" opacity="0.85"/>
+    </g>
+  </g>
+</svg>
