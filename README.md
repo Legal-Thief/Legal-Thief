@@ -23,7 +23,7 @@ Focused on clean architecture, thoughtful system design, and applied explainable
   <img src="https://img.shields.io/badge/Email-tanishqpatel650@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://www.mdpi.com/1999-4933/19/9/716" target="_blank">
+<a href="https://www.mdpi.com/1999-4893/19/9/716" target="_blank">
   <img src="https://img.shields.io/badge/Research-MDPI_Publication-6B21A8?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper" />
 </a>
 
@@ -154,11 +154,11 @@ AI-driven traffic management system for sustainable urban mobility, computer-vis
 
 ## 📄 Research Publication
 
-**[Feature Attribution Dynamics Under Imbalanced Learning Algorithms: An Explainable Machine Learning Framework for Burnout Risk Prediction](https://www.mdpi.com/1999-4933/19/9/716)**
+**[Feature Attribution Dynamics Under Imbalanced Learning Algorithms: An Explainable Machine Learning Framework for Burnout Risk Prediction](https://www.mdpi.com/1999-4893/19/9/716)**
 
 Peer-reviewed research on feature attribution sensitivity and model interpretability under class-imbalanced datasets, applied to occupational burnout risk prediction.
 
-[Read the Paper →](https://www.mdpi.com/1999-4933/19/9/716)
+[Read the Paper →](https://www.mdpi.com/1999-4893/19/9/716)
 
 ---
 
@@ -182,7 +182,7 @@ Open to software engineering opportunities, research collaborations, and interes
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="26" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.mdpi.com/1999-4933/19/9/716" target="_blank">
+<a href="https://www.mdpi.com/1999-4893/19/9/716" target="_blank">
   <img src="https://img.shields.io/badge/Research-6B21A8?style=flat-square&logo=googlescholar&logoColor=white" alt="Research" height="26" />
 </a>
 
