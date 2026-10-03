@@ -62,26 +62,57 @@ Outside engineering, I conduct research in explainable AI and class-imbalanced l
 
 ## Tech Stack
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="Java, JavaScript, TypeScript, Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="48" />
+### Languages & SQL
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="Java, JavaScript, TypeScript, Python" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="48" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="React, Next.js, Tailwind CSS, HTML5, CSS3" />
 
-**Backend**
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js" />
 
-**Database**
+</td>
+
+<td width="50%" valign="top">
+
+### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB, MySQL" />
 
-**Tools**
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Git, GitHub, VS Code, Postman, Docker" />
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
